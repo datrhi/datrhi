@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HieuDT</h1>
+<h1 align="center">Hi 👋, I'm Hieu Dang</h1>
 <h3 align="center">A frontend developer love hacking</h3>
 
 - 🔭 I’m currently working on [OnCX](https://oncx.vn/vi/)
@@ -7,9 +7,11 @@
 
 - 👯 I’m looking to collaborate on [Zalo](https://zalo.me/pc)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **ReactJs, React Native**
 
 - 📫 How to reach me **hieuvnuet@gmail.com**
+
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing)
 
 - ⚡ Fun fact **Love hacking**
 

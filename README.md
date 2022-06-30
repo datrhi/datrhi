@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm HieuDT</h1>
 <h3 align="center">A frontend developer love hacking</h3>
 
-- 🔭 I’m currently working on **OnCX**
+- 🔭 I’m currently working on [OnCX](https://oncx.vn/vi/)
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on **Zalo**
+- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/pc)
 
 - 💬 Ask me about **React**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/datrhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="datrhi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/trung-hiếu-đặng-479361211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung-hiếu-đặng-479361211" height="30" width="40" /></a>
 <a href="https://fb.com/datrhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="datrhi" height="30" width="40" /></a>
 </p>
 

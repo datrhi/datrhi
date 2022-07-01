@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/pc)
+- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/pc), [MoMo](https://momo.vn/)
 
 - 💬 Ask me about **ReactJs, React Native**
 

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hieuvnuet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing](https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing)
 
 - ⚡ Fun fact **Love hacking**
 

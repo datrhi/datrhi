@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/pc), [MoMo](https://momo.vn/)
+- 👯 I’m looking to collaborate on [Cốc Cốc](https://coccoc.com/)
+
+- 👨‍💻 All of my projects are available at [https://datrhi.github.io/my-portfolio/](https://datrhi.github.io/my-portfolio/)
 
 - 💬 Ask me about **ReactJs, React Native**
 
 - 📫 How to reach me **hieuvnuet@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing](https://drive.google.com/file/d/13OhCtGoDCIlt5CgkPlESE6wH2E1GG6Ry/view?usp=sharing)
 
 - ⚡ Fun fact **Love hacking**
 

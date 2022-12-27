@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👯 I’m looking to collaborate on [Cốc Cốc](https://coccoc.com/)
+- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://datrhi.github.io/my-portfolio/)
 

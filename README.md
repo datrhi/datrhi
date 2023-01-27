@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hieu Dang</h1>
 <h3 align="center">A mobile developer</h3>
 
-- 🔭 I’m currently working on [OnCX](https://oncx.vn/vi/)
+- 🔭 I’m currently working on [MoMo](https://momo.vn/)
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on [Zalo](https://zalo.me/)
 

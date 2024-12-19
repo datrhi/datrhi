@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hieu Dang</h1>
-<h3 align="center">A mobile developer</h3>
+<h3 align="center">Mobile Software Engineer</h3>
 
-- 🔭 I’m currently working on [MoMo](https://momo.vn/)
+- 🔭 I’m currently working on [Tekai](https://tekai.vn/)
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on [Zalo](https://zalo.me/)
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://datrhi.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://datrhi.github.io/portfolio/)
 
 - 💬 Ask me about **ReactJs, React Native**
 
 - 📫 How to reach me **hieuvnuet@gmail.com**
-
-- ⚡ Fun fact **Love hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

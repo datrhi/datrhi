@@ -1,6 +1,4 @@
 ![Header](./github-header-banner.png)
-<h1 align="center">Hi 👋, I'm Hieu Dang</h1>
-<h3 align="center">Mobile Software Engineer</h3>
 
 - 🔭 I’m currently working on [Tekai](https://tekai.vn/)
 
